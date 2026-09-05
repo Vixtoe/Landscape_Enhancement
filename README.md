@@ -41,7 +41,7 @@ This project implements a targeted image enhancement pipeline in MATLAB using HS
 ## Documentation & Artifacts
 
 * **Source Script:** Available in [`scripts/sunset_shadow_visible_balanced_sun.m`](scripts/sunset_shadow_visible_balanced_sun.m)
-* **Presentation Deck:** [View Presentation Slides (PDF)](Image%20Enhancement%20Project.pdf?raw=true)
+* **Presentation Deck:** [View Presentation Slides (PDF)](Image_Enhancement_Project.pdf?raw=true)
 
 ---
 
